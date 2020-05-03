@@ -1,0 +1,19 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "profile": "tabular-data-resource",
+      "schema": {}
+    }
+  ],
+  "name": "Challenge Data Package",
+  "title": "Gas Pricing Script",
+  "description": "A script to get a CSV file of daily natural gas prices from  http://www.eia.gov/dnav/ng/hist/rngwhhdm.htm",
+  "contributors": [
+    {
+      "title": "Linda Geaves",
+      "role": "author"
+    }
+  ]
+}
